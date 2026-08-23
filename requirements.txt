@@ -1,0 +1,17 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+matplotlib
+# Machine learning (Listing 10)
+scikit-learn
+# Graph analysis (Listings 5, 6)
+networkx
+# Seismology I/O and processing (Listing 1, phase picking)
+obspy
+# Calibrated ground-motion models (Fig. 7) — prefer conda-forge (see environment.yml)
+openquake.engine
+#
+# System tools NOT installable via pip:
+#   GMT 6  — required by fig04_study_area.sh and fig05_marmara_seismotectonic.sh
+#            https://www.generic-mapping-tools.org/

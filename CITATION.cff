@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and this repository."
+title: "AI-Driven Digital Twin for Seismic Resilience of Istanbul: Architecture and Open Workflow"
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    affiliation: "Istanbul Technical University"
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+  - family-names: Zülfikar
+    given-names: Abdullah Can
+    affiliation: "Istanbul Technical University"
+version: "1.0.0"
+doi: "10.5281/zenodo.XXXXXXX"
+date-released: 2026-01-01
+license: MIT
+repository-code: "https://github.com/"
+keywords:
+  - earthquake early warning
+  - digital twin
+  - ground-motion validation
+  - Istanbul
+  - reproducibility

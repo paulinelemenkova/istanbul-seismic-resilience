@@ -1,0 +1,6 @@
+# lon    lat    dep strike dip rake  mag  colour      label
+29.86  40.75  17   91   87  -172  7.6  red2        1999_Izmit
+31.16  40.74  10  262   64  -172  7.1  orange      1999_Duzce
+28.23  40.30  10  250   45   -85  6.9  green       1964_Manyas
+26.11  40.45  10   68   82  -175  6.6  dodgerblue  1975_Saros
+28.16  40.88  12  269   65  -173  5.8  magenta     2019_Silivri

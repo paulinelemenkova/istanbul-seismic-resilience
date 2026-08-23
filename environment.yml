@@ -1,0 +1,15 @@
+name: istanbul-seismic
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - scikit-learn
+  - networkx
+  - obspy
+  - openquake.engine
+  - gmt            # GMT 6 for the cartography (.sh) scripts
+  - pygmt          # optional Python interface to GMT
