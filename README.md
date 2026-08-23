@@ -102,7 +102,7 @@ links and the expected local layout under `DATA_ROOT`.
 ## Citation
 
 If you use this workflow, please cite the paper and this repository (see
-`CITATION.cff`). Archived release: **Zenodo DOI 10.5281/zenodo.XXXXXXX**.
+`CITATION.cff`). Archived release: **Zenodo DOI 10.5281/zenodo.22070488**.
 
 ## License
 
