@@ -16,3 +16,10 @@ __pycache__/
 # environments
 .venv/
 env/
+
+# fig08 generated files
+figures/faults_*.gmt
+figures/
+*.geojson
+figures/*.nc
+figures/gmt.history
