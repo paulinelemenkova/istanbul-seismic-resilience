@@ -2,7 +2,7 @@
 
 Open, reproducible workflow accompanying the paper:
 
-> P. Lemenkova and A. C. Zülfikar, *AI-Driven Digital Twin for Seismic Resilience of
+> P. Lemenkova, *AI-Driven Digital Twin for Seismic Resilience of
 > Istanbul: Architecture and Open Workflow* (manuscript in review).
 > Vol. 77, No. 3, 2026 (in review).
 
