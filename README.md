@@ -1,10 +1,6 @@
 # AI-Driven Digital Twin for Seismic Resilience of Istanbul
 
-Open, reproducible workflow accompanying the paper:
-
-> P. Lemenkova, *AI-Driven Digital Twin for Seismic Resilience of
-> Istanbul: Architecture and Open Workflow* (manuscript in review).
-> Vol. 77, No. 3, 2026 (in review).
+Open, reproducible workflow
 
 This repository contains the runnable building blocks of a six-layer
 AI–EEW–Digital-Twin reference architecture and the scripts that generate every
