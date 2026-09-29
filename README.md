@@ -1,4 +1,4 @@
-# AI-Driven Digital Twin for Seismic Resilience of Istanbul
+# Reference Architecture and Python-Based Workflow for Istanbul Seismic Resilience
 
 Open, reproducible workflow
 
